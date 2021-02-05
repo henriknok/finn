@@ -1,1 +1,536 @@
-[{"navn":"Sell iPhone 12 Pro","salgpris":"$1108"},{"navn":"Sell iPhone 12 Pro Max","salgpris":"$1251"},{"navn":"Sell iPhone 12","salgpris":"$799"},{"navn":"Sell iPhone SE 2nd Gen","salgpris":"$316"},{"navn":"Sell iPhone 11 Pro Max","salgpris":"$800"},{"navn":"Sell iPhone 11","salgpris":"$557"},{"navn":"Sell iPhone 11 Pro","salgpris":"$729"},{"navn":"Sell iPhone Xr","salgpris":"$374"},{"navn":"Sell iPhone Xs Max","salgpris":"$497"},{"navn":"Sell iPhone Xs","salgpris":"$409"},{"navn":"Sell iPhone 8","salgpris":"$228"},{"navn":"Sell iPhone X","salgpris":"$353"},{"navn":"Sell iPhone 8 Plus","salgpris":"$312"},{"navn":"Sell iPhone 7","salgpris":"$156"},{"navn":"Sell iPhone 7 Plus","salgpris":"$252"},{"navn":"Sell iPhone 6S","salgpris":"$118"},{"navn":"Sell iPhone 6S Plus","salgpris":"$163"},{"navn":"Sell iPhone SE","salgpris":"$122"},{"navn":"Sell iPhone 6","salgpris":"$91"},{"navn":"Sell iPhone 6 Plus","salgpris":"$140"},{"navn":"Sell iPhone 5S","salgpris":"$55"},{"navn":"Sell iPhone 5C","salgpris":"$57"},{"navn":"Sell iPhone 5","salgpris":"$45"},{"navn":"Sell iPhone 4S","salgpris":"$48"},{"navn":"Sell iPhone 4","salgpris":"$23"},{"navn":"Sell iPhone 12 Mini","salgpris":"$676"},{"navn":"Sell iPhone 3GS","salgpris":"$0"},{"navn":"Sell iPhone","salgpris":"$0"}]
+{
+ "navn": [
+  {
+   "name": "Sell iPhone 12 Pro",
+   "pris": "$1105",
+   "gb": [
+    {
+     "gb_name": "iPhone 12 Pro, 128 GB",
+     "gb_pris": "$984"
+    },
+    {
+     "gb_name": "iPhone 12 Pro, 256 GB",
+     "gb_pris": "$1042"
+    },
+    {
+     "gb_name": "iPhone 12 Pro, 512 GB",
+     "gb_pris": "$1153"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 12 Pro Max",
+   "pris": "$1246",
+   "gb": [
+    {
+     "gb_name": "iPhone 12 Pro Max, 128 GB",
+     "gb_pris": "$1089"
+    },
+    {
+     "gb_name": "iPhone 12 Pro Max, 256 GB",
+     "gb_pris": "$1185"
+    },
+    {
+     "gb_name": "iPhone 12 Pro Max, 512 GB",
+     "gb_pris": "$1328"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 12",
+   "pris": "$799",
+   "gb": [
+    {
+     "gb_name": "iPhone 12, 64 GB",
+     "gb_pris": "$726"
+    },
+    {
+     "gb_name": "iPhone 12, 128 GB",
+     "gb_pris": "$787"
+    },
+    {
+     "gb_name": "iPhone 12, 256 GB",
+     "gb_pris": "$855"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone SE 2nd Gen",
+   "pris": "$316",
+   "gb": [
+    {
+     "gb_name": "iPhone SE 2nd Gen, 64 GB",
+     "gb_pris": "$297"
+    },
+    {
+     "gb_name": "iPhone SE 2nd Gen, 128 GB",
+     "gb_pris": "$346"
+    },
+    {
+     "gb_name": "iPhone SE 2nd Gen, 256 GB",
+     "gb_pris": "$403"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 11 Pro Max",
+   "pris": "$804",
+   "gb": [
+    {
+     "gb_name": "iPhone 11 Pro Max, 64 GB",
+     "gb_pris": "$709"
+    },
+    {
+     "gb_name": "iPhone 11 Pro Max, 256 GB",
+     "gb_pris": "$789"
+    },
+    {
+     "gb_name": "iPhone 11 Pro Max, 512 GB",
+     "gb_pris": "$847"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 11 Pro",
+   "pris": "$730",
+   "gb": [
+    {
+     "gb_name": "iPhone 11 Pro, 64 GB",
+     "gb_pris": "$628"
+    },
+    {
+     "gb_name": "iPhone 11 Pro, 256 GB",
+     "gb_pris": "$714"
+    },
+    {
+     "gb_name": "iPhone 11 Pro, 512 GB",
+     "gb_pris": "$775"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 11",
+   "pris": "$556",
+   "gb": [
+    {
+     "gb_name": "iPhone 11, 64 GB",
+     "gb_pris": "$511"
+    },
+    {
+     "gb_name": "iPhone 11, 128 GB",
+     "gb_pris": "$550"
+    },
+    {
+     "gb_name": "iPhone 11, 256 GB",
+     "gb_pris": "$615"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone Xr",
+   "pris": "$374",
+   "gb": [
+    {
+     "gb_name": "iPhone Xr, 64 GB",
+     "gb_pris": "$345"
+    },
+    {
+     "gb_name": "iPhone Xr, 128 GB",
+     "gb_pris": "$373"
+    },
+    {
+     "gb_name": "iPhone Xr, 256 GB",
+     "gb_pris": "$401"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone Xs Max",
+   "pris": "$496",
+   "gb": [
+    {
+     "gb_name": "iPhone Xs Max, 64 GB",
+     "gb_pris": "$457"
+    },
+    {
+     "gb_name": "iPhone Xs Max, 256 GB",
+     "gb_pris": "$487"
+    },
+    {
+     "gb_name": "iPhone Xs Max, 512 GB",
+     "gb_pris": "$535"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone Xs",
+   "pris": "$406",
+   "gb": [
+    {
+     "gb_name": "iPhone Xs, 64 GB",
+     "gb_pris": "$363"
+    },
+    {
+     "gb_name": "iPhone Xs, 256 GB",
+     "gb_pris": "$413"
+    },
+    {
+     "gb_name": "iPhone Xs, 512 GB",
+     "gb_pris": "$464"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 8",
+   "pris": "$228",
+   "gb": [
+    {
+     "gb_name": "iPhone 8, 64 GB",
+     "gb_pris": "$196"
+    },
+    {
+     "gb_name": "iPhone 8, 128 GB",
+     "gb_pris": "$304"
+    },
+    {
+     "gb_name": "iPhone 8, 256 GB",
+     "gb_pris": "$257"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone X",
+   "pris": "$353",
+   "gb": [
+    {
+     "gb_name": "iPhone X, 64 GB",
+     "gb_pris": "$319"
+    },
+    {
+     "gb_name": "iPhone X, 256 GB",
+     "gb_pris": "$351"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 8 Plus",
+   "pris": "$312",
+   "gb": [
+    {
+     "gb_name": "iPhone 8 Plus, 64 GB",
+     "gb_pris": "$279"
+    },
+    {
+     "gb_name": "iPhone 8 Plus, 128 GB",
+     "gb_pris": "$318"
+    },
+    {
+     "gb_name": "iPhone 8 Plus, 256 GB",
+     "gb_pris": "$330"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 7",
+   "pris": "$156",
+   "gb": [
+    {
+     "gb_name": "iPhone 7, 32 GB",
+     "gb_pris": "$135"
+    },
+    {
+     "gb_name": "iPhone 7, 128 GB",
+     "gb_pris": "$147"
+    },
+    {
+     "gb_name": "iPhone 7, 256 GB",
+     "gb_pris": "$164"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 7 Plus",
+   "pris": "$252",
+   "gb": [
+    {
+     "gb_name": "iPhone 7 Plus, 32 GB",
+     "gb_pris": "$204"
+    },
+    {
+     "gb_name": "iPhone 7 Plus, 128 GB",
+     "gb_pris": "$217"
+    },
+    {
+     "gb_name": "iPhone 7 Plus, 256 GB",
+     "gb_pris": "$235"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 6S",
+   "pris": "$118",
+   "gb": [
+    {
+     "gb_name": "iPhone 6S, 16 GB",
+     "gb_pris": "$91"
+    },
+    {
+     "gb_name": "iPhone 6S, 32 GB",
+     "gb_pris": "$99"
+    },
+    {
+     "gb_name": "iPhone 6S, 64 GB",
+     "gb_pris": "$104"
+    },
+    {
+     "gb_name": "iPhone 6S, 128 GB",
+     "gb_pris": "$123"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 6S Plus",
+   "pris": "$164",
+   "gb": [
+    {
+     "gb_name": "iPhone 6S Plus, 16 GB",
+     "gb_pris": "$136"
+    },
+    {
+     "gb_name": "iPhone 6S Plus, 32 GB",
+     "gb_pris": "$148"
+    },
+    {
+     "gb_name": "iPhone 6S Plus, 64 GB",
+     "gb_pris": "$154"
+    },
+    {
+     "gb_name": "iPhone 6S Plus, 128 GB",
+     "gb_pris": "$171"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone SE",
+   "pris": "$123",
+   "gb": [
+    {
+     "gb_name": "iPhone SE, 16 GB",
+     "gb_pris": "$79"
+    },
+    {
+     "gb_name": "iPhone SE, 32 GB",
+     "gb_pris": "$98"
+    },
+    {
+     "gb_name": "iPhone SE, 64 GB",
+     "gb_pris": "$98"
+    },
+    {
+     "gb_name": "iPhone SE, 128 GB",
+     "gb_pris": "$129"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 6",
+   "pris": "$90",
+   "gb": [
+    {
+     "gb_name": "iPhone 6, 16 GB",
+     "gb_pris": "$73"
+    },
+    {
+     "gb_name": "iPhone 6, 32 GB",
+     "gb_pris": "$78"
+    },
+    {
+     "gb_name": "iPhone 6, 64 GB",
+     "gb_pris": "$81"
+    },
+    {
+     "gb_name": "iPhone 6, 128 GB",
+     "gb_pris": "$92"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 6 Plus",
+   "pris": "$142",
+   "gb": [
+    {
+     "gb_name": "iPhone 6 Plus, 16 GB",
+     "gb_pris": "$108"
+    },
+    {
+     "gb_name": "iPhone 6 Plus, 32 GB",
+     "gb_pris": "$105"
+    },
+    {
+     "gb_name": "iPhone 6 Plus, 64 GB",
+     "gb_pris": "$131"
+    },
+    {
+     "gb_name": "iPhone 6 Plus, 128 GB",
+     "gb_pris": "$138"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 5S",
+   "pris": "$56",
+   "gb": [
+    {
+     "gb_name": "iPhone 5S, 16 GB",
+     "gb_pris": "$51"
+    },
+    {
+     "gb_name": "iPhone 5S, 32 GB",
+     "gb_pris": "$56"
+    },
+    {
+     "gb_name": "iPhone 5S, 64 GB",
+     "gb_pris": "$64"
+    },
+    {
+     "gb_name": "iPhone 5S, 128 GB",
+     "gb_pris": "-"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 5C",
+   "pris": "$57",
+   "gb": [
+    {
+     "gb_name": "iPhone 5C, 8 GB",
+     "gb_pris": "$41"
+    },
+    {
+     "gb_name": "iPhone 5C, 16 GB",
+     "gb_pris": "$42"
+    },
+    {
+     "gb_name": "iPhone 5C, 32 GB",
+     "gb_pris": "$43"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 5",
+   "pris": "$45",
+   "gb": [
+    {
+     "gb_name": "iPhone 5, 16 GB",
+     "gb_pris": "$40"
+    },
+    {
+     "gb_name": "iPhone 5, 32 GB",
+     "gb_pris": "$44"
+    },
+    {
+     "gb_name": "iPhone 5, 64 GB",
+     "gb_pris": "$48"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 4S",
+   "pris": "$48",
+   "gb": [
+    {
+     "gb_name": "iPhone 4S, 8 GB",
+     "gb_pris": "$30"
+    },
+    {
+     "gb_name": "iPhone 4S, 16 GB",
+     "gb_pris": "$29"
+    },
+    {
+     "gb_name": "iPhone 4S, 32 GB",
+     "gb_pris": "$40"
+    },
+    {
+     "gb_name": "iPhone 4S, 64 GB",
+     "gb_pris": "$28"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 4",
+   "pris": "$23",
+   "gb": [
+    {
+     "gb_name": "iPhone 4, 8 GB",
+     "gb_pris": "$24"
+    },
+    {
+     "gb_name": "iPhone 4, 16 GB",
+     "gb_pris": "$21"
+    },
+    {
+     "gb_name": "iPhone 4, 32 GB",
+     "gb_pris": "-"
+    },
+    {
+     "gb_name": "iPhone 4, 64 GB",
+     "gb_pris": "-"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 12 Mini",
+   "pris": "$675",
+   "gb": [
+    {
+     "gb_name": "iPhone 12 Mini, 64 GB",
+     "gb_pris": "$631"
+    },
+    {
+     "gb_name": "iPhone 12 Mini, 128 GB",
+     "gb_pris": "$670"
+    },
+    {
+     "gb_name": "iPhone 12 Mini, 256 GB",
+     "gb_pris": "$762"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone 3GS",
+   "pris": "$0",
+   "gb": [
+    {
+     "gb_name": "iPhone 3GS, 8 GB",
+     "gb_pris": "-"
+    },
+    {
+     "gb_name": "iPhone 3GS, 16 GB",
+     "gb_pris": "-"
+    },
+    {
+     "gb_name": "iPhone 3GS, 32 GB",
+     "gb_pris": "-"
+    }
+   ]
+  },
+  {
+   "name": "Sell iPhone",
+   "pris": "$0",
+   "gb": [
+    {
+     "gb_name": "iPhone, 4 GB",
+     "gb_pris": "-"
+    },
+    {
+     "gb_name": "iPhone, 8 GB",
+     "gb_pris": "-"
+    },
+    {
+     "gb_name": "iPhone, 16 GB",
+     "gb_pris": "-"
+    }
+   ]
+  }
+ ]
+}
